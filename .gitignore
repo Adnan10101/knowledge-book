@@ -2,3 +2,4 @@ env/
 app/knowledge_base
 test.txt
 run.bat/
+app/__pycache__
